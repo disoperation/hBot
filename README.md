@@ -1,2 +1,2 @@
 # hBot
-A pentesting discord bot.
+A pentesting discord bot written in Java.
